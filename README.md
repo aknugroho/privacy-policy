@@ -1,8 +1,8 @@
-Privacy Policy for Simple Flashlight
+Privacy Policy for All App in Andi Studio
 
-Last updated: September 15, 2017
+Last updated: March 3, 2020
 
-Orlandoamita AKA Andi Nugroho ("us", "we", or "our") operates the Simple Flashlight mobile application (the "Service").
+Andi Studio ("us", "we", or "our") operates this mobile application (the "Service").
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 We will not use or share your information with anyone except as described in this Privacy Policy.
 We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
@@ -10,7 +10,7 @@ We use your Personal Information for providing and improving the Service. By usi
 
 Android permissions
 
-This application requires a specific privacy policy because it uses the "Camera" permission. It is important to note that the app DOES NOT TAKE PICTURES OR RECORD VIDEOS. So why do we require the permission ? The answer is: to be able to turn on the LED light. There are thousands of different android devices which have either outdated systems or bugs that make it impossible to turn on the LED light with the operating system's dedicated functions. So in order to achieve the main functionality of the app (turn on the LED) on the vast majority on devices, we use various workarounds just to achieve this goal. Some tricks use the Autofocus feature (which requires the camera permission) and others tricks like the "PREVIEW" mode (which you can see in our test tool in the app) launches a camera capture process in order to turn on the LED. Even in this mode all camera input is immediately discarded. It is never saved anywhere.
+This application requires a gmail account only. We did not need any data from your phone.
 
 
 Information Collection And Use
